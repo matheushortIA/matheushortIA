@@ -57,16 +57,6 @@ Com uma bagagem que vai de **marketing digital** a **ensino de matemática**, tr
 🎓 **Engenharia de Software - Uniasselvi** (2024/2 – 2027/1)  
 🎓 **Ánalise e Desenvolvimento de Sistemas - Multivixi** (2025/1 – 2026/2)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheushort&show_icons=true&theme=github_dark" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheushort&theme=github-dark-blue" width="47%">
-</p>
-
----
 
 ## 📫 Contato
 
