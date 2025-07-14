@@ -55,7 +55,7 @@ Com uma bagagem que vai de **marketing digital** a **ensino de matemática**, tr
 ## 📚 Formação Acadêmica
 
 🎓 **Engenharia de Software - Uniasselvi** (2024/2 – 2027/1)  
-🎓 Engenharia Elétrica - Multivix (Trancado)
+🎓 **Ánalise e Desenvolvimento de Sistemas - Multivixi** (2025/1 – 2026/2)
 
 ---
 
